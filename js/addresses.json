@@ -1,0 +1,2358 @@
+{
+  "provinces": [
+    {
+      "id": 27,
+      "name": "H\u1EA3i D\u01B0\u01A1ng",
+      "code": "27",
+      "country_id": 201
+    }
+  ],
+  "districts": [
+    {
+      "id": 293,
+      "name": "Th\u00E0nh ph\u1ED1 H\u1EA3i D\u01B0\u01A1ng",
+      "code": "293",
+      "province_id": 27
+    },
+    {
+      "id": 294,
+      "name": "Th\u1ECB x\u00E3 Ch\u00ED Linh",
+      "code": "294",
+      "province_id": 27
+    },
+    {
+      "id": 295,
+      "name": "Huy\u1EC7n B\u00ECnh Giang",
+      "code": "295",
+      "province_id": 27
+    },
+    {
+      "id": 296,
+      "name": "Huy\u1EC7n C\u1EA9m Gi\u00E0ng",
+      "code": "296",
+      "province_id": 27
+    },
+    {
+      "id": 297,
+      "name": "Huy\u1EC7n Gia L\u1ED9c",
+      "code": "297",
+      "province_id": 27
+    },
+    {
+      "id": 298,
+      "name": "Huy\u1EC7n Kim Th\u00E0nh",
+      "code": "298",
+      "province_id": 27
+    },
+    {
+      "id": 299,
+      "name": "Huy\u1EC7n Kinh M\u00F4n",
+      "code": "299",
+      "province_id": 27
+    },
+    {
+      "id": 300,
+      "name": "Huy\u1EC7n Nam S\u00E1ch",
+      "code": "300",
+      "province_id": 27
+    },
+    {
+      "id": 301,
+      "name": "Huy\u1EC7n Ninh Giang",
+      "code": "301",
+      "province_id": 27
+    },
+    {
+      "id": 302,
+      "name": "Huy\u1EC7n Thanh H\u00E0",
+      "code": "302",
+      "province_id": 27
+    },
+    {
+      "id": 303,
+      "name": "Huy\u1EC7n Thanh Mi\u1EC7n",
+      "code": "303",
+      "province_id": 27
+    },
+    {
+      "id": 304,
+      "name": "Huy\u1EC7n T\u1EE9 K\u1EF3",
+      "code": "304",
+      "province_id": 27
+    }
+  ],
+  "wards": [
+    {
+      "id": 3600,
+      "name": "Ph\u01B0\u1EDDng C\u1EA9m Th\u01B0\u1EE3ng",
+      "code": "3600",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3601,
+      "name": "Ph\u01B0\u1EDDng B\u00ECnh H\u00E0n",
+      "code": "3601",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3602,
+      "name": "Ph\u01B0\u1EDDng Ng\u1ECDc Ch\u00E2u",
+      "code": "3602",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3603,
+      "name": "Ph\u01B0\u1EDDng Nh\u1ECB Ch\u00E2u",
+      "code": "3603",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3604,
+      "name": "Ph\u01B0\u1EDDng Quang Trung",
+      "code": "3604",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3605,
+      "name": "Ph\u01B0\u1EDDng Nguy\u1EC5n Tr\u00E3i",
+      "code": "3605",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3606,
+      "name": "Ph\u01B0\u1EDDng Ph\u1EA1m Ng\u0169 L\u00E3o",
+      "code": "3606",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3607,
+      "name": "Ph\u01B0\u1EDDng Tr\u1EA7n H\u01B0ng \u0110\u1EA1o",
+      "code": "3607",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3608,
+      "name": "Ph\u01B0\u1EDDng Tr\u1EA7n Ph\u00FA",
+      "code": "3608",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3609,
+      "name": "Ph\u01B0\u1EDDng Thanh B\u00ECnh",
+      "code": "3609",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3610,
+      "name": "Ph\u01B0\u1EDDng T\u00E2n B\u00ECnh",
+      "code": "3610",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3611,
+      "name": "Ph\u01B0\u1EDDng L\u00EA Thanh Ngh\u1ECB",
+      "code": "3611",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3612,
+      "name": "Ph\u01B0\u1EDDng H\u1EA3i T\u00E2n",
+      "code": "3612",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3613,
+      "name": "Ph\u01B0\u1EDDng T\u1EE9 Minh",
+      "code": "3613",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3614,
+      "name": "Ph\u01B0\u1EDDng Vi\u1EC7t H\u00F2a",
+      "code": "3614",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3653,
+      "name": "Ph\u01B0\u1EDDng \u00C1i Qu\u1ED1c",
+      "code": "3653",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3654,
+      "name": "X\u00E3 An Ch\u00E2u",
+      "code": "3654",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3656,
+      "name": "X\u00E3 Th\u01B0\u1EE3ng \u0110\u1EA1t",
+      "code": "3656",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3657,
+      "name": "X\u00E3 Nam \u0110\u1ED3ng",
+      "code": "3657",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3767,
+      "name": "Ph\u01B0\u1EDDng Th\u1EA1ch Kh\u00F4i",
+      "code": "3767",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3770,
+      "name": "X\u00E3 T\u00E2n H\u01B0ng",
+      "code": "3770",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 11302,
+      "name": "X\u00E3 An Th\u01B0\u1EE3ng",
+      "code": "11302",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 11303,
+      "name": "X\u00E3 Quy\u1EBFt Th\u1EAFng",
+      "code": "11303",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 11304,
+      "name": "X\u00E3 Ti\u1EC1n Ti\u1EBFn",
+      "code": "11304",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 11305,
+      "name": "X\u00E3 Li\u00EAn H\u1ED3ng",
+      "code": "11305",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 11306,
+      "name": "X\u00E3 Gia Xuy\u00EAn",
+      "code": "11306",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 11307,
+      "name": "X\u00E3 Ng\u1ECDc S\u01A1n",
+      "code": "11307",
+      "province_id": 27,
+      "district_id": 293,
+      "district_code": "293"
+    },
+    {
+      "id": 3615,
+      "name": "Ph\u01B0\u1EDDng Ph\u1EA3 L\u1EA1i",
+      "code": "3615",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3616,
+      "name": "Ph\u01B0\u1EDDng Sao \u0110\u1ECF",
+      "code": "3616",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3617,
+      "name": "Ph\u01B0\u1EDDng B\u1EBFn T\u1EAFm",
+      "code": "3617",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3618,
+      "name": "X\u00E3 Ho\u00E0ng Hoa Th\u00E1m",
+      "code": "3618",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3619,
+      "name": "X\u00E3 B\u1EAFc An",
+      "code": "3619",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3620,
+      "name": "X\u00E3 H\u01B0ng \u0110\u1EA1o",
+      "code": "3620",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3621,
+      "name": "X\u00E3 L\u00EA L\u1EE3i",
+      "code": "3621",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3622,
+      "name": "X\u00E3 Ho\u00E0ng Ti\u1EBFn",
+      "code": "3622",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3623,
+      "name": "Ph\u01B0\u1EDDng C\u1ED9ng H\u00F2a",
+      "code": "3623",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3624,
+      "name": "Ph\u01B0\u1EDDng Ho\u00E0ng T\u00E2n",
+      "code": "3624",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3625,
+      "name": "X\u00E3 C\u1ED5 Th\u00E0nh",
+      "code": "3625",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3626,
+      "name": "Ph\u01B0\u1EDDng V\u0103n An",
+      "code": "3626",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3627,
+      "name": "Ph\u01B0\u1EDDng Ch\u00ED Minh",
+      "code": "3627",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3628,
+      "name": "X\u00E3 V\u0103n \u0110\u1EE9c",
+      "code": "3628",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3629,
+      "name": "Ph\u01B0\u1EDDng Th\u00E1i H\u1ECDc",
+      "code": "3629",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3630,
+      "name": "X\u00E3 Nh\u00E2n Hu\u1EC7",
+      "code": "3630",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3631,
+      "name": "X\u00E3 An L\u1EA1c",
+      "code": "3631",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3632,
+      "name": "X\u00E3 K\u00EAnh Giang",
+      "code": "3632",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3633,
+      "name": "X\u00E3 \u0110\u1ED3ng L\u1EA1c",
+      "code": "3633",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3634,
+      "name": "X\u00E3 T\u00E2n D\u00E2n",
+      "code": "3634",
+      "province_id": 27,
+      "district_id": 294,
+      "district_code": "294"
+    },
+    {
+      "id": 3748,
+      "name": "Th\u1ECB tr\u1EA5n K\u1EBB S\u1EB7t",
+      "code": "3748",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3749,
+      "name": "X\u00E3 H\u01B0ng Th\u1ECBnh",
+      "code": "3749",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3750,
+      "name": "X\u00E3 V\u0129nh Tuy",
+      "code": "3750",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3751,
+      "name": "X\u00E3 H\u00F9ng Th\u1EAFng",
+      "code": "3751",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3752,
+      "name": "X\u00E3 Tr\u00E1ng Li\u1EC7t",
+      "code": "3752",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3753,
+      "name": "X\u00E3 V\u0129nh H\u1ED3ng",
+      "code": "3753",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3754,
+      "name": "X\u00E3 Long Xuy\u00EAn",
+      "code": "3754",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3755,
+      "name": "X\u00E3 T\u00E2n Vi\u1EC7t",
+      "code": "3755",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3756,
+      "name": "X\u00E3 Th\u00FAc Kh\u00E1ng",
+      "code": "3756",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3757,
+      "name": "X\u00E3 T\u00E2n H\u1ED3ng",
+      "code": "3757",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3758,
+      "name": "X\u00E3 B\u00ECnh Minh",
+      "code": "3758",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3759,
+      "name": "X\u00E3 H\u1ED3ng Kh\u00EA",
+      "code": "3759",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3760,
+      "name": "X\u00E3 Th\u00E1i H\u1ECDc",
+      "code": "3760",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3761,
+      "name": "X\u00E3 C\u1ED5 B\u00EC",
+      "code": "3761",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3762,
+      "name": "X\u00E3 Nh\u00E2n Quy\u1EC1n",
+      "code": "3762",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3763,
+      "name": "X\u00E3 Th\u00E1i D\u01B0\u01A1ng",
+      "code": "3763",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3764,
+      "name": "X\u00E3 Th\u00E1i H\u00F2a",
+      "code": "3764",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3765,
+      "name": "X\u00E3 B\u00ECnh Xuy\u00EAn",
+      "code": "3765",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 11317,
+      "name": "X\u00E3 V\u0129nh H\u01B0ng",
+      "code": "11317",
+      "province_id": 27,
+      "district_id": 295,
+      "district_code": "295"
+    },
+    {
+      "id": 3729,
+      "name": "Th\u1ECB tr\u1EA5n C\u1EA9m Gi\u00E0ng",
+      "code": "3729",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3730,
+      "name": "Th\u1ECB tr\u1EA5n Lai C\u00E1ch",
+      "code": "3730",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3731,
+      "name": "X\u00E3 C\u1EA9m H\u01B0ng",
+      "code": "3731",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3732,
+      "name": "X\u00E3 C\u1EA9m Ho\u00E0ng",
+      "code": "3732",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3733,
+      "name": "X\u00E3 C\u1EA9m V\u0103n",
+      "code": "3733",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3734,
+      "name": "X\u00E3 Ng\u1ECDc Li\u00EAn",
+      "code": "3734",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3735,
+      "name": "X\u00E3 Th\u1EA1ch L\u1ED7i",
+      "code": "3735",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3736,
+      "name": "X\u00E3 C\u1EA9m V\u0169",
+      "code": "3736",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3737,
+      "name": "X\u00E3 \u0110\u1EE9c Ch\u00EDnh",
+      "code": "3737",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3738,
+      "name": "X\u00E3 C\u1EA9m S\u01A1n",
+      "code": "3738",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3739,
+      "name": "X\u00E3 C\u1EA9m \u0110\u1ECBnh",
+      "code": "3739",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3740,
+      "name": "X\u00E3 Kim Giang",
+      "code": "3740",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3741,
+      "name": "X\u00E3 L\u01B0\u01A1ng \u0110i\u1EC1n",
+      "code": "3741",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3742,
+      "name": "X\u00E3 Cao An",
+      "code": "3742",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3743,
+      "name": "X\u00E3 T\u00E2n Tr\u01B0\u1EDDng",
+      "code": "3743",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3744,
+      "name": "X\u00E3 C\u1EA9m Ph\u00FAc",
+      "code": "3744",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3745,
+      "name": "X\u00E3 C\u1EA9m \u0110i\u1EC1n",
+      "code": "3745",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3746,
+      "name": "X\u00E3 C\u1EA9m \u0110\u00F4ng",
+      "code": "3746",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3747,
+      "name": "X\u00E3 C\u1EA9m \u0110o\u00E0i",
+      "code": "3747",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 11316,
+      "name": "X\u00E3 \u0110\u1ECBnh S\u01A1n",
+      "code": "11316",
+      "province_id": 27,
+      "district_id": 296,
+      "district_code": "296"
+    },
+    {
+      "id": 3766,
+      "name": "Th\u1ECB tr\u1EA5n Gia L\u1ED9c",
+      "code": "3766",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3768,
+      "name": "X\u00E3 Li\u00EAn H\u1ED3ng",
+      "code": "3768",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3769,
+      "name": "X\u00E3 Th\u1ED1ng Nh\u1EA5t",
+      "code": "3769",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3771,
+      "name": "X\u00E3 Tr\u00F9ng Kh\u00E1nh",
+      "code": "3771",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3772,
+      "name": "X\u00E3 Gia Xuy\u00EAn",
+      "code": "3772",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3773,
+      "name": "X\u00E3 Y\u1EBFt Ki\u00EAu",
+      "code": "3773",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3774,
+      "name": "X\u00E3 Gia H\u00F2a",
+      "code": "3774",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3775,
+      "name": "X\u00E3 Ph\u01B0\u01A1ng H\u01B0ng",
+      "code": "3775",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3776,
+      "name": "X\u00E3 Gia T\u00E2n",
+      "code": "3776",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3777,
+      "name": "X\u00E3 T\u00E2n Ti\u1EBFn",
+      "code": "3777",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3778,
+      "name": "X\u00E3 Gia Kh\u00E1nh",
+      "code": "3778",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3779,
+      "name": "X\u00E3 Gia L\u01B0\u01A1ng",
+      "code": "3779",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3780,
+      "name": "X\u00E3 L\u00EA L\u1EE3i",
+      "code": "3780",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3781,
+      "name": "X\u00E3 To\u00E0n Th\u1EAFng",
+      "code": "3781",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3782,
+      "name": "X\u00E3 Ho\u00E0ng Di\u1EC7u",
+      "code": "3782",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3783,
+      "name": "X\u00E3 H\u1ED3ng H\u01B0ng",
+      "code": "3783",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3784,
+      "name": "X\u00E3 Ph\u1EA1m Tr\u1EA5n",
+      "code": "3784",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3785,
+      "name": "X\u00E3 \u0110o\u00E0n Th\u01B0\u1EE3ng",
+      "code": "3785",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3786,
+      "name": "X\u00E3 Th\u1ED1ng K\u00EAnh",
+      "code": "3786",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3787,
+      "name": "X\u00E3 Quang Minh",
+      "code": "3787",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3788,
+      "name": "X\u00E3 \u0110\u1ED3ng Quang",
+      "code": "3788",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3789,
+      "name": "X\u00E3 Nh\u1EADt T\u00E2n",
+      "code": "3789",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3790,
+      "name": "X\u00E3 \u0110\u1EE9c X\u01B0\u01A1ng",
+      "code": "3790",
+      "province_id": 27,
+      "district_id": 297,
+      "district_code": "297"
+    },
+    {
+      "id": 3683,
+      "name": "Th\u1ECB tr\u1EA5n Ph\u00FA Th\u00E1i",
+      "code": "3683",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3684,
+      "name": "X\u00E3 Lai Vu",
+      "code": "3684",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3685,
+      "name": "X\u00E3 C\u1ED9ng H\u00F2a",
+      "code": "3685",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3686,
+      "name": "X\u00E3 Th\u01B0\u1EE3ng V\u0169",
+      "code": "3686",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3687,
+      "name": "X\u00E3 C\u1ED5 D\u0169ng",
+      "code": "3687",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3688,
+      "name": "X\u00E3 Vi\u1EC7t H\u01B0ng",
+      "code": "3688",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3689,
+      "name": "X\u00E3 Tu\u1EA5n H\u01B0ng",
+      "code": "3689",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3690,
+      "name": "X\u00E3 Kim Xuy\u00EAn",
+      "code": "3690",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3691,
+      "name": "X\u00E3 Ph\u00FAc Th\u00E0nh A",
+      "code": "3691",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3692,
+      "name": "X\u00E3 Ng\u0169 Ph\u00FAc",
+      "code": "3692",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3693,
+      "name": "X\u00E3 Kim Anh",
+      "code": "3693",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3694,
+      "name": "X\u00E3 Kim L\u01B0\u01A1ng",
+      "code": "3694",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3695,
+      "name": "X\u00E3 Kim T\u00E2n",
+      "code": "3695",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3696,
+      "name": "X\u00E3 Kim Kh\u00EA",
+      "code": "3696",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3697,
+      "name": "X\u00E3 Kim \u0110\u00EDnh",
+      "code": "3697",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3698,
+      "name": "X\u00E3 C\u1EA9m La",
+      "code": "3698",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3699,
+      "name": "X\u00E3 B\u00ECnh D\u00E2n",
+      "code": "3699",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3700,
+      "name": "X\u00E3 Tam K\u1EF3",
+      "code": "3700",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3701,
+      "name": "X\u00E3 \u0110\u1ED3ng Gia",
+      "code": "3701",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3702,
+      "name": "X\u00E3 Li\u00EAn H\u00F2a",
+      "code": "3702",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3703,
+      "name": "X\u00E3 \u0110\u1EA1i \u0110\u1EE9c",
+      "code": "3703",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 11311,
+      "name": "X\u00E3 Tu\u1EA5n Vi\u1EC7t",
+      "code": "11311",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 11312,
+      "name": "X\u00E3 Kim Li\u00EAn",
+      "code": "11312",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 11313,
+      "name": "X\u00E3 \u0110\u1ED3ng C\u1EA9m",
+      "code": "11313",
+      "province_id": 27,
+      "district_id": 298,
+      "district_code": "298"
+    },
+    {
+      "id": 3658,
+      "name": "Th\u1ECB tr\u1EA5n Kinh M\u00F4n",
+      "code": "3658",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3659,
+      "name": "X\u00E3 B\u1EA1ch \u0110\u1EB1ng",
+      "code": "3659",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3660,
+      "name": "X\u00E3 Th\u1EA5t H\u00F9ng",
+      "code": "3660",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3661,
+      "name": "X\u00E3 L\u00EA Ninh",
+      "code": "3661",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3662,
+      "name": "X\u00E3 Ho\u00E0nh S\u01A1n",
+      "code": "3662",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3663,
+      "name": "X\u00E3 Ph\u00FAc Th\u00E0nh",
+      "code": "3663",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3664,
+      "name": "X\u00E3 Th\u00E1i S\u01A1n",
+      "code": "3664",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3665,
+      "name": "X\u00E3 Duy T\u00E2n",
+      "code": "3665",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3666,
+      "name": "X\u00E3 T\u00E2n D\u00E2n",
+      "code": "3666",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3667,
+      "name": "Th\u1ECB tr\u1EA5n Minh T\u00E2n",
+      "code": "3667",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3668,
+      "name": "X\u00E3 Quang Trung",
+      "code": "3668",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3669,
+      "name": "X\u00E3 Hi\u1EC7p H\u00F2a",
+      "code": "3669",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3670,
+      "name": "X\u00E3 Ph\u1EA1m M\u1EC7nh",
+      "code": "3670",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3671,
+      "name": "Th\u1ECB tr\u1EA5n Ph\u00FA Th\u1EE9",
+      "code": "3671",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3672,
+      "name": "X\u00E3 Th\u0103ng Long",
+      "code": "3672",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3673,
+      "name": "X\u00E3 L\u1EA1c Long",
+      "code": "3673",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3674,
+      "name": "X\u00E3 An Sinh",
+      "code": "3674",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3675,
+      "name": "X\u00E3 Hi\u1EC7p S\u01A1n",
+      "code": "3675",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3676,
+      "name": "X\u00E3 Th\u01B0\u1EE3ng Qu\u1EADn",
+      "code": "3676",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3677,
+      "name": "X\u00E3 An Ph\u1EE5",
+      "code": "3677",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3678,
+      "name": "X\u00E3 Hi\u1EC7p An",
+      "code": "3678",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3679,
+      "name": "X\u00E3 Long Xuy\u00EAn",
+      "code": "3679",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3680,
+      "name": "X\u00E3 Th\u00E1i Th\u1ECBnh",
+      "code": "3680",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3681,
+      "name": "X\u00E3 Hi\u1EBFn Th\u00E0nh",
+      "code": "3681",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3682,
+      "name": "X\u00E3 Minh H\u00F2a",
+      "code": "3682",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 11308,
+      "name": "Ph\u01B0\u1EDDng An L\u01B0u",
+      "code": "11308",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 11309,
+      "name": "Ph\u01B0\u1EDDng Ph\u1EA1m Th\u00E1i",
+      "code": "11309",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 11310,
+      "name": "X\u00E3 Quang Th\u00E0nh",
+      "code": "11310",
+      "province_id": 27,
+      "district_id": 299,
+      "district_code": "299"
+    },
+    {
+      "id": 3635,
+      "name": "Th\u1ECB tr\u1EA5n Nam S\u00E1ch",
+      "code": "3635",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3636,
+      "name": "X\u00E3 Nam H\u01B0ng",
+      "code": "3636",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3637,
+      "name": "X\u00E3 Nam T\u00E2n",
+      "code": "3637",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3638,
+      "name": "X\u00E3 H\u1EE3p Ti\u1EBFn",
+      "code": "3638",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3639,
+      "name": "X\u00E3 Hi\u1EC7p C\u00E1t",
+      "code": "3639",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3640,
+      "name": "X\u00E3 Thanh Quang",
+      "code": "3640",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3641,
+      "name": "X\u00E3 Qu\u1ED1c Tu\u1EA5n",
+      "code": "3641",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3642,
+      "name": "X\u00E3 Nam Ch\u00EDnh",
+      "code": "3642",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3643,
+      "name": "X\u00E3 An B\u00ECnh",
+      "code": "3643",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3644,
+      "name": "X\u00E3 Nam Trung",
+      "code": "3644",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3645,
+      "name": "X\u00E3 An S\u01A1n",
+      "code": "3645",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3646,
+      "name": "X\u00E3 C\u1ED9ng H\u00F2a",
+      "code": "3646",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3647,
+      "name": "X\u00E3 Th\u00E1i T\u00E2n",
+      "code": "3647",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3648,
+      "name": "X\u00E3 An L\u00E2m",
+      "code": "3648",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3649,
+      "name": "X\u00E3 Ph\u00FA \u0110i\u1EC1n",
+      "code": "3649",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3650,
+      "name": "X\u00E3 Nam H\u1ED3ng",
+      "code": "3650",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3651,
+      "name": "X\u00E3 H\u1ED3ng Phong",
+      "code": "3651",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3652,
+      "name": "X\u00E3 \u0110\u1ED3ng L\u1EA1c",
+      "code": "3652",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3655,
+      "name": "X\u00E3 Minh T\u00E2n",
+      "code": "3655",
+      "province_id": 27,
+      "district_id": 300,
+      "district_code": "300"
+    },
+    {
+      "id": 3818,
+      "name": "Th\u1ECB tr\u1EA5n Ninh Giang",
+      "code": "3818",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3819,
+      "name": "X\u00E3 Quy\u1EBFt Th\u1EAFng",
+      "code": "3819",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3820,
+      "name": "X\u00E3 \u1EE8ng Ho\u00E8",
+      "code": "3820",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3821,
+      "name": "X\u00E3 Ngh\u0129a An",
+      "code": "3821",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3822,
+      "name": "X\u00E3 H\u1ED3ng \u0110\u1EE9c",
+      "code": "3822",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3823,
+      "name": "X\u00E3 Ninh H\u00F2a",
+      "code": "3823",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3824,
+      "name": "X\u00E3 An \u0110\u1EE9c",
+      "code": "3824",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3825,
+      "name": "X\u00E3 V\u1EA1n Ph\u00FAc",
+      "code": "3825",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3826,
+      "name": "X\u00E3 T\u00E2n H\u01B0\u01A1ng",
+      "code": "3826",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3827,
+      "name": "X\u00E3 Ninh Th\u00E0nh",
+      "code": "3827",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3828,
+      "name": "X\u00E3 V\u0129nh H\u00F2a",
+      "code": "3828",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3829,
+      "name": "X\u00E3 \u0110\u00F4ng Xuy\u00EAn",
+      "code": "3829",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3830,
+      "name": "X\u00E3 Ho\u00E0ng Hanh",
+      "code": "3830",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3831,
+      "name": "X\u00E3 Quang H\u01B0ng",
+      "code": "3831",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3832,
+      "name": "X\u00E3 T\u00E2n Phong",
+      "code": "3832",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3833,
+      "name": "X\u00E3 Ninh H\u1EA3i",
+      "code": "3833",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3834,
+      "name": "X\u00E3 \u0110\u1ED3ng T\u00E2m",
+      "code": "3834",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3835,
+      "name": "X\u00E3 T\u00E2n Quang",
+      "code": "3835",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3836,
+      "name": "X\u00E3 Ki\u1EBFn Qu\u1ED1c",
+      "code": "3836",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3837,
+      "name": "X\u00E3 H\u1ED3ng Th\u00E1i",
+      "code": "3837",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3838,
+      "name": "X\u00E3 H\u1ED3ng D\u1EE5",
+      "code": "3838",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3839,
+      "name": "X\u00E3 V\u0103n H\u1ED9i",
+      "code": "3839",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3840,
+      "name": "X\u00E3 H\u01B0ng Th\u00E1i",
+      "code": "3840",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3841,
+      "name": "X\u00E3 H\u1ED3ng Phong",
+      "code": "3841",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3842,
+      "name": "X\u00E3 Hi\u1EC7p L\u1EF1c",
+      "code": "3842",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3843,
+      "name": "X\u00E3 H\u1ED3ng Ph\u00FAc",
+      "code": "3843",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3844,
+      "name": "X\u00E3 H\u01B0ng Long",
+      "code": "3844",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3845,
+      "name": "X\u00E3 V\u0103n Giang",
+      "code": "3845",
+      "province_id": 27,
+      "district_id": 301,
+      "district_code": "301"
+    },
+    {
+      "id": 3704,
+      "name": "Th\u1ECB tr\u1EA5n Thanh H\u00E0",
+      "code": "3704",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3705,
+      "name": "X\u00E3 H\u1ED3ng L\u1EA1c",
+      "code": "3705",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3706,
+      "name": "X\u00E3 Vi\u1EC7t H\u1ED3ng",
+      "code": "3706",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3707,
+      "name": "X\u00E3 Quy\u1EBFt Th\u1EAFng",
+      "code": "3707",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3708,
+      "name": "X\u00E3 T\u00E2n Vi\u1EC7t",
+      "code": "3708",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3709,
+      "name": "X\u00E3 C\u1EA9m Ch\u1EBF",
+      "code": "3709",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3710,
+      "name": "X\u00E3 Thanh An",
+      "code": "3710",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3711,
+      "name": "X\u00E3 Thanh Lang",
+      "code": "3711",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3712,
+      "name": "X\u00E3 Ti\u1EC1n Ti\u1EBFn",
+      "code": "3712",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3713,
+      "name": "X\u00E3 T\u00E2n An",
+      "code": "3713",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3714,
+      "name": "X\u00E3 Li\u00EAn M\u1EA1c",
+      "code": "3714",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3715,
+      "name": "X\u00E3 Thanh H\u1EA3i",
+      "code": "3715",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3716,
+      "name": "X\u00E3 Thanh Kh\u00EA",
+      "code": "3716",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3717,
+      "name": "X\u00E3 Thanh X\u00E1",
+      "code": "3717",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3718,
+      "name": "X\u00E3 Thanh Xu\u00E2n",
+      "code": "3718",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3719,
+      "name": "X\u00E3 An L\u01B0\u01A1ng",
+      "code": "3719",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3720,
+      "name": "X\u00E3 Thanh Th\u1EE7y",
+      "code": "3720",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3721,
+      "name": "X\u00E3 Ph\u01B0\u1EE3ng Ho\u00E0ng",
+      "code": "3721",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3722,
+      "name": "X\u00E3 Thanh S\u01A1n",
+      "code": "3722",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3723,
+      "name": "X\u00E3 H\u1EE3p \u0110\u1EE9c",
+      "code": "3723",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3724,
+      "name": "X\u00E3 Tr\u01B0\u1EDDng Th\u00E0nh",
+      "code": "3724",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3725,
+      "name": "X\u00E3 Thanh B\u00EDnh",
+      "code": "3725",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3726,
+      "name": "X\u00E3 Thanh H\u1ED3ng",
+      "code": "3726",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3727,
+      "name": "X\u00E3 Thanh C\u01B0\u1EDDng",
+      "code": "3727",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3728,
+      "name": "X\u00E3 V\u0129nh L\u1EADp",
+      "code": "3728",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 11314,
+      "name": "X\u00E3 An Ph\u01B0\u1EE3ng",
+      "code": "11314",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 11315,
+      "name": "X\u00E3 Thanh Quang",
+      "code": "11315",
+      "province_id": 27,
+      "district_id": 302,
+      "district_code": "302"
+    },
+    {
+      "id": 3846,
+      "name": "Th\u1ECB tr\u1EA5n Thanh Mi\u1EC7n",
+      "code": "3846",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3847,
+      "name": "X\u00E3 Thanh T\u00F9ng",
+      "code": "3847",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3848,
+      "name": "X\u00E3 Ph\u1EA1m Kha",
+      "code": "3848",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3849,
+      "name": "X\u00E3 Ng\u00F4 Quy\u1EC1n",
+      "code": "3849",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3850,
+      "name": "X\u00E3 \u0110o\u00E0n T\u00F9ng",
+      "code": "3850",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3851,
+      "name": "X\u00E3 H\u1ED3ng Quang",
+      "code": "3851",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3852,
+      "name": "X\u00E3 T\u00E2n Tr\u00E0o",
+      "code": "3852",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3853,
+      "name": "X\u00E3 Lam S\u01A1n",
+      "code": "3853",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3854,
+      "name": "X\u00E3 \u0110o\u00E0n K\u1EBFt",
+      "code": "3854",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3855,
+      "name": "X\u00E3 L\u00EA H\u1ED3ng",
+      "code": "3855",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3856,
+      "name": "X\u00E3 T\u1EE9 C\u01B0\u1EDDng",
+      "code": "3856",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3857,
+      "name": "X\u00E3 H\u00F9ng S\u01A1n",
+      "code": "3857",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3858,
+      "name": "X\u00E3 Ng\u0169 H\u00F9ng",
+      "code": "3858",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3859,
+      "name": "X\u00E3 Cao Th\u1EAFng",
+      "code": "3859",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3860,
+      "name": "X\u00E3 Chi L\u0103ng B\u1EAFc",
+      "code": "3860",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3861,
+      "name": "X\u00E3 Chi L\u0103ng Nam",
+      "code": "3861",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3862,
+      "name": "X\u00E3 Thanh Giang",
+      "code": "3862",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3863,
+      "name": "X\u00E3 Di\u00EAn H\u1ED3ng",
+      "code": "3863",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3864,
+      "name": "X\u00E3 Ti\u1EC1n Phong",
+      "code": "3864",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 11320,
+      "name": "X\u00E3 H\u1ED3ng Phong",
+      "code": "11320",
+      "province_id": 27,
+      "district_id": 303,
+      "district_code": "303"
+    },
+    {
+      "id": 3791,
+      "name": "Th\u1ECB tr\u1EA5n T\u1EE9 K\u1EF3",
+      "code": "3791",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3792,
+      "name": "X\u00E3 Ng\u1ECDc S\u01A1n",
+      "code": "3792",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3793,
+      "name": "X\u00E3 K\u1EF3 S\u01A1n",
+      "code": "3793",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3794,
+      "name": "X\u00E3 \u0110\u1EA1i \u0110\u1ED3ng",
+      "code": "3794",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3795,
+      "name": "X\u00E3 H\u01B0ng \u0110\u1EA1o",
+      "code": "3795",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3796,
+      "name": "X\u00E3 Ng\u1ECDc K\u1EF3",
+      "code": "3796",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3797,
+      "name": "X\u00E3 B\u00ECnh L\u0103ng",
+      "code": "3797",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3798,
+      "name": "X\u00E3 T\u1EE9 Xuy\u00EAn",
+      "code": "3798",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3799,
+      "name": "X\u00E3 T\u00E1i S\u01A1n",
+      "code": "3799",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3800,
+      "name": "X\u00E3 Quang Ph\u1EE5c",
+      "code": "3800",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3801,
+      "name": "X\u00E3 \u0110\u00F4ng K\u1EF3",
+      "code": "3801",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3802,
+      "name": "X\u00E3 T\u00E2y K\u1EF3",
+      "code": "3802",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3803,
+      "name": "X\u00E3 D\u00E2n Ch\u1EE7",
+      "code": "3803",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3804,
+      "name": "X\u00E3 T\u00E2n K\u1EF3",
+      "code": "3804",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3805,
+      "name": "X\u00E3 Quang Kh\u1EA3i",
+      "code": "3805",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3806,
+      "name": "X\u00E3 \u0110\u1EA1i H\u1EE3p",
+      "code": "3806",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3807,
+      "name": "X\u00E3 Qu\u1EA3ng Nghi\u1EC7p",
+      "code": "3807",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3808,
+      "name": "X\u00E3 An Thanh",
+      "code": "3808",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3809,
+      "name": "X\u00E3 Minh \u0110\u1EE9c",
+      "code": "3809",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3810,
+      "name": "X\u00E3 V\u0103n T\u1ED1",
+      "code": "3810",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3811,
+      "name": "X\u00E3 Quang Trung",
+      "code": "3811",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3812,
+      "name": "X\u00E3 Ph\u01B0\u1EE3ng K\u1EF3",
+      "code": "3812",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3813,
+      "name": "X\u00E3 C\u1ED9ng L\u1EA1c",
+      "code": "3813",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3814,
+      "name": "X\u00E3 Ti\u00EAn \u0110\u1ED9ng",
+      "code": "3814",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3815,
+      "name": "X\u00E3 Nguy\u00EAn Gi\u00E1p",
+      "code": "3815",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3816,
+      "name": "X\u00E3 H\u00E0 K\u1EF3",
+      "code": "3816",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 3817,
+      "name": "X\u00E3 H\u00E0 Thanh",
+      "code": "3817",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 11318,
+      "name": "X\u00E3 \u0110\u1EA1i S\u01A1n",
+      "code": "11318",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    },
+    {
+      "id": 11319,
+      "name": "X\u00E3 Ch\u00ED Minh",
+      "code": "11319",
+      "province_id": 27,
+      "district_id": 304,
+      "district_code": "304"
+    }
+  ]
+}
